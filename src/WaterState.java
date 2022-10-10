@@ -26,7 +26,7 @@ public class WaterState {
         }
 
         int degreesAboveSeaLevel=altitude/300;
-        int newBoilingPoint=seaLevelBoilingPoint+degreesAboveSeaLevel;
+        int newBoilingPoint=seaLevelBoilingPoint-degreesAboveSeaLevel;
 
         String state;
         //If the temperature is over the altitude adjusted boiling point, the state is set to 'gaseous'
