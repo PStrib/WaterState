@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44dff906-5bd4-4dfb-849e-640e96f27994" name="Changes" comment="Makes the program function up to spec" />
+    <list default="true" id="44dff906-5bd4-4dfb-849e-640e96f27994" name="Changes" comment="Changes a plus to a minus to reflect real-world boiling characteristics">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WaterState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WaterState.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +26,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/peter/Computing Science/String input practice"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -34,7 +38,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665434548649</updated>
-      <workItem from="1665434550077" duration="4041000" />
+      <workItem from="1665434550077" duration="6005000" />
     </task>
     <task id="LOCAL-00001" summary="Makes the program function up to spec">
       <created>1665438615087</created>
@@ -43,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665438615087</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes a plus to a minus to reflect real-world boiling characteristics">
+      <created>1665438817941</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665438817941</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -62,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Makes the program function up to spec" />
-    <option name="LAST_COMMIT_MESSAGE" value="Makes the program function up to spec" />
+    <MESSAGE value="Changes a plus to a minus to reflect real-world boiling characteristics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes a plus to a minus to reflect real-world boiling characteristics" />
   </component>
 </project>
